@@ -1,0 +1,1 @@
+https://us-central1-gifts-4f2a4.cloudfunctions.net/api/v1
